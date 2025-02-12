@@ -1,5 +1,11 @@
 # SEP3 Password Manager
 
+3rd Semester project at VIA University College for (The names of other group members are removed for privacy purposes):
+- Rasmus Sterup
+- 3 other students.
+
+For which all group members received grade 12 (A).
+
 ## Installation Guide
 
 ### Certificates for Secure SSL Connections
