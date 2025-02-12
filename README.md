@@ -6,6 +6,8 @@
 
 For which all group members received grade 12 (A).
 
+The project is a distributed system, using various communication technologies such as Grpc and a WebAPI endpoint. It focuses mainly on clean, maintainable and SOLID architecture.
+
 ## Installation Guide
 
 ### Certificates for Secure SSL Connections
